@@ -1,0 +1,48 @@
+@import url(‘https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/brands.min.css’);
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+ /*PADRE*/
+
+.grid-area{
+    display: grid;
+    grid-template-areas:
+     "menu encabezado encabezado"
+     "menu table Aside"
+     "producto table aside"
+     "footer footer footer"
+    
+;
+}
+
+/*HIJOS*/
+
+.table{
+    grid-area: table;
+}
+
+.header{
+grid-area: encabezado;
+}
+
+.nav{
+grid-area: producto;
+}
+
+.prod{
+grid-area: producto;
+}
+
+.aside{
+grid-area: Aside;
+}
+
+.footer{
+grid-area: Footer;
+}
