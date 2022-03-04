@@ -133,20 +133,20 @@ flex-wrap: wrap;
 
 
 
-@media screen and(max-width: 1200px) {
+@media screen and(max-width: 980px) {
     .responsive{ background-color:#A69541
     }  
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 980px) {
     .responsive{ background-color: #9f6d1f;}
 }
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:980px) {
     .responsive{ background-color: #daa052;}
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width:980px){
     .responsive{ background-color: #ffd786;}
 }
 
