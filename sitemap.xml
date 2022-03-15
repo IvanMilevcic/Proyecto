@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/issues</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/pulls</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/actions</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/projects?type=beta</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/security</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/e6ea4840d972b76734b83558b771210133c6e987</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/2c52b0ff2c21a1ecde8311adabaf11f6042af6c5</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/d9ea3ace36d91a95d25b8c7524307237adad47aa</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/master/.gitignore</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/a391e017d18f4c35e61ed863eb71cc3f6ab057a5</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/master/index.html</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/5696862d9687a4bd174b48eecdb552c7a0aa73d1</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/master/package-lock.json</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/master/package.json</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/releases</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/compare</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/projects</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/security/policy</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/security/advisories</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/9bee6dbaec2058bc1fdbb3badb4c4ecf52460617</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/e6ea4840d972b76734b83558b771210133c6e987/.gitignore</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/find/master</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/e6ea4840d972b76734b83558b771210133c6e987/index.html</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/e6ea4840d972b76734b83558b771210133c6e987/package-lock.json</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/blob/e6ea4840d972b76734b83558b771210133c6e987/package.json</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels?sort=name-asc</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels?sort=name-desc</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels?sort=count-desc</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels?sort=count-asc</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/bug</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/documentation</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/duplicate</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/enhancement</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/good%20first%20issue</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/help%20wanted</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/invalid</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/question</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/labels/wontfix</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/security/advisories?state=published</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/f8ddc859087226af08d3ef3bb1d57f41ac0b4921</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/find/e6ea4840d972b76734b83558b771210133c6e987</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/IvanMilevcic/Proyecto/commit/9066d5aa4241b4462256ff7751f6908389dce6ab</loc>
+  <lastmod>2022-03-15T12:17:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
