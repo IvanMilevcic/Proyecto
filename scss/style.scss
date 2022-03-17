@@ -40,7 +40,7 @@
 .header{
  color: bisque;
  flex-direction: row;
-font-family: cursive;
+font-family: Georgia, 'Times New Roman', Times, serif;
  text-align: center;
 background-image: linear-gradient(to right,#1a3b16, #286d21 );
 border: 1px rgb(39, 23, 15);}
@@ -49,7 +49,7 @@ border: 1px rgb(39, 23, 15);}
 h1
 {color: bisque;
 flex-direction: row;
-font-family: cursive;
+font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
 background-image: linear-gradient(to right,#1a3b16, #286d21 );
 border: 1px rgb(39, 23, 15);
@@ -60,19 +60,19 @@ border: 1px rgb(39, 23, 15);
 h2
 {color: bisque;
 flex-direction: row;
-font-family: cursive;
+font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;}
 
 .p
 {color: bisque;
     flex-direction: row;
-    font-family: cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;}
 
     .h2__info{
         color: bisque;
         flex-direction: row;
-    font-family: cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     display: flex;
     }
 
@@ -165,6 +165,8 @@ flex-wrap: wrap;
             flex-wrap: wrap;
             align-items: center;
             justify-content: space-evenly;
+            
+            
             }
     
     }   
@@ -174,15 +176,7 @@ body
 {background-image: linear-gradient(to right,#9f6d1f,#806d4f);
  flex-wrap: wrap;} 
 
- .noticia{
-    display:flex;
-    height: auto;
-    flex-direction:row;
-    flex-wrap: wrap;
-    justify-content: center;
-    justify-content: space-evenly;
-    
-    }
+
 
 
 .card__header1{
@@ -199,6 +193,10 @@ flex-wrap: wrap;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
+    transition: all 0.5s ease;
+    color: $color;
+    text-decoration: none;
+    font-size: 1.5rem;
     }
 
 }
